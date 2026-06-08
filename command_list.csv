@@ -1,14 +1,14 @@
     1   man git
     2  git config --global --list
-    3  [200~git config --global user.name "Tryhubenko Roman" \
+    3  200~git config --global user.name "Tryhubenko Roman" \
     4  git config --global user.name "Tryhubenko Roman" \
     5  git config --global user.email "roma.trigubenko@ukr.net"
     6  git config --global --list
     7  git config --global user.name "Tryhubenko Roman" 
     8  git config --global --list
     9  history
-   10  git clone https://github.com/hotarutest/HW10
-   11  cd HW10
+   10  git clone https://github.com/hotarutest/HW_10
+   11  cd HW_10
    12  git status
    13  touch text_ignore.txt
    14  git status
